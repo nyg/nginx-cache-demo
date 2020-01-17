@@ -3,7 +3,7 @@
 }
 
 body {
-    width: 1000px;
+    width: 800px;
     margin: auto;
     background-color: beige;
 }
@@ -21,7 +21,7 @@ img {
 }
 
 .blink {
-    animation: blinker 0.7s step-start infinite;
+    animation: blinker 1.5s step-start infinite;
 }
 
 @keyframes blinker {
